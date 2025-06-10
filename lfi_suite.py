@@ -10,9 +10,17 @@ import time
 init(autoreset=True)
 
 ascii_art = f"""{Fore.LIGHTCYAN_EX}
+    ___    _______.___________.__        _____             __          
+   /  /   /   _____|   \_   ___ \  |__   /     \ _____  ___/  |_  ____  
+  /  /    \_____  \|   /    \  \/  |  \ /  \ /  \\__  \ \__  \   __\/ __ \ 
+ /  /___  /        \   \     \___|   Y  Y    Y    \/ __ \_/ __ \|  | \  ___/
+/_____/  \_______  /___|\______  /___|  \____|__  (____  (____  /__|  \___  >
+                \/             \/      \/       \/     \/     \/          \
+
 🎯 LFI_Suite
 ⚡ Created by zapstiko
 🐍 Fast. Focused. Functional.
+"""
 {Style.RESET_ALL}
 """
 
